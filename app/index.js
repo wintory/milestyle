@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import HelloWorld from './HelloWorld';
+import City from './indexpic';
 
 ReactDOM.render(
-	<HelloWorld />, 
-	document.getElementById('app')
+	<City />, 
+	document.getElementById('citycard')
 	);
